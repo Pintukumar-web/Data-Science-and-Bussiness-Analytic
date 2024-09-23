@@ -3,5 +3,5 @@
 **Data Science and Business Analytics Intern** 
 # Author: Pintu Kumar
 **Task 1: Prediction using Supervised ML** 
-● Prediction of the percentage of an student based on the no. of study hours.
+● Predict the percentage of students based on the number of study hours.
 ● This is a simple linear regression task as it involves just 2 variables.
